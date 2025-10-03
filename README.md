@@ -1,9 +1,9 @@
 # Friday-Project-5
 
 ## Files In This Folder
- -customer_management
- -view_customers
- -customer_data
+ - customer_management
+ - view_customers
+ - customer_data
 
 ## customer_management Overview 
 Customer_management is the main bulk of this code. It creates the the db file if there isn't one. It creates the GUI with all required Information needed. It also validates wheather the user inputs the information correctly and if it isn't it give an error message and where that error is. It saves the information and clears the interface for the next user.
